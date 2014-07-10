@@ -1,0 +1,1 @@
+[Wed Jul 09 22:39:40.628333 2014] [:error] [pid 3922] [client 127.0.0.1:48792] PHP Parse error:  syntax error, unexpected 'Post\xe2\x80\x99' (T_STRING) in /home/natan/Projects/cakephpblog/app/View/Posts/add.ctp on line 7, referer: http://cakephpblog.dev/posts
